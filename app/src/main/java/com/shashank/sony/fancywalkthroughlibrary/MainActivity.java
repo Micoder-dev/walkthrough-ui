@@ -14,10 +14,10 @@ public class MainActivity extends FancyWalkthroughActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        FancyWalkthroughCard fancywalkthroughCard1 = new FancyWalkthroughCard("Find Restaurant", "Find the best restaurant in your neighborhood.", R.drawable.find_restaurant1);
-        FancyWalkthroughCard fancywalkthroughCard2 = new FancyWalkthroughCard("Pick the best", "Pick the right place using trusted ratings and reviews.", R.drawable.pickthebest);
-        FancyWalkthroughCard fancywalkthroughCard3 = new FancyWalkthroughCard("Choose your meal", "Easily find the type of food you're craving.", R.drawable.chooseurmeal);
-        FancyWalkthroughCard fancywalkthroughCard4 = new FancyWalkthroughCard("Meal is on the way", "Get ready and comfortable while our biker bring your meal at your door.", R.drawable.mealisonway);
+        FancyWalkthroughCard fancywalkthroughCard1 = new FancyWalkthroughCard("Come Chat", "A platform to find new friends", R.drawable.logos);
+        FancyWalkthroughCard fancywalkthroughCard2 = new FancyWalkthroughCard("Pick the best", "Select your best Squad to make your chat more funny", R.drawable.squad);
+        FancyWalkthroughCard fancywalkthroughCard3 = new FancyWalkthroughCard("", "", R.drawable.logos);
+        FancyWalkthroughCard fancywalkthroughCard4 = new FancyWalkthroughCard("", "", R.drawable.logos);
 
         fancywalkthroughCard1.setBackgroundColor(R.color.white);
         fancywalkthroughCard1.setIconLayoutParams(300, 300, 0, 0, 0, 0);
@@ -45,7 +45,7 @@ public class MainActivity extends FancyWalkthroughActivity {
         setFinishButtonTitle("Get Started");
         showNavigationControls(true);
         setColorBackground(R.color.colorGreen);
-        //setImageBackground(R.drawable.restaurant);
+        setImageBackground(R.drawable.chat_walkthrough);
         setInactiveIndicatorColor(R.color.grey_600);
         setActiveIndicatorColor(R.color.colorGreen);
         setOnboardPages(pages);
