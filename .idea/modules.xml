@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FancyWalkthrough-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/FancyWalkthrough-Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyWalkthrough-Android.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/FancyWalkthrough-Android.fancywalkthroughlib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walkthrough-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/walkthrough-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/walkthrough-ui.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fancywalkthroughlib/walkthrough-ui.fancywalkthroughlib.unitTest.iml" />
     </modules>
   </component>
 </project>
